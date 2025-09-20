@@ -11,7 +11,7 @@ import {
 const sections = [
 {
   title: "Transport Business को बनाएं डिजिटल और स्मार्ट",
-  subtitle: "Ravikant Sonu Sahu | Sitaram Transport, Keolari",
+  subtitle: "Rahul Verma | Om Sai Transport, Nagpur",
   cta: "प्रस्तुति – Niket Group की ओर से",
 description: `
 👉 यह software पूरी तरह से *आपके लिए custom-developed* किया जाएगा — आपकी जरूरतों और business flow को ध्यान में रखकर **शुरुआत से (from scratch)**।
